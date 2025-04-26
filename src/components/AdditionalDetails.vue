@@ -130,8 +130,8 @@ const handleReadMore = (event) => {
     .outer-container {
         width: 90%;
         min-width: unset;
-        margin: 16px auto;
         padding: 10px;
+        margin: 16px auto 72px auto;
     }
 
     .content-box {
