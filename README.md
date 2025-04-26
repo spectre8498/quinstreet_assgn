@@ -20,7 +20,8 @@ This project features:
 
 ## 🌐 Live Demo
 
-👉 [View Hosted Project Here](https://spectre8498.github.io/quinstreet_assgn/)
+👉 [View Hosted Project Here](https://quinstreetassgn.netlify.app/)
+👉 [git repository](https://github.com/spectre8498/quinstreet_assgn)
 
 ---
 
@@ -67,6 +68,24 @@ This project features:
 
 ---
 
+## 🗂 Project Structure
+    quinstreet_assgn/
+    ├── src/
+    │   ├── assets/
+    │   │   ├── logo.png
+    │   │   └── background.svg     
+    │   ├── components/
+    │   │   ├── UserForm.vue
+    │   │   └── AdditionalDetails.vue
+    │   ├── App.vue
+    │   └── main.js
+    ├── index.html
+    ├── package.json
+    ├── vite.config.js
+    └── README.md
+
+---
+
 ## 🛠 How to Run Locally
 
 ### Steps
@@ -77,20 +96,3 @@ This project features:
    npm install
    npm run dev
 ```
-
-### Project Structure
-quinstreet_assgn/
-├── public/
-│   └── index.html
-├── src/
-│   ├── assets/
-│   │   ├── logo.png
-│   │   └── background.svg     
-│   ├── components/
-│   │   ├── Form.vue
-│   │   └── BackgroundAnimation.vue
-│   ├── App.vue
-│   └── main.js
-├── package.json
-├── vite.config.js
-└── README.md
